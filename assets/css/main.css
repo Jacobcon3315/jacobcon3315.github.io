@@ -2047,6 +2047,8 @@ input, select, textarea {
     .rounded img {
       border-radius: 0.35em;
       display: block;
+			width: 100%;
+			height: auto;
     }
 
 /* Image */
