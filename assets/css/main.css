@@ -2035,7 +2035,7 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* Rounded */
+	/* Rounded */
 
   .rounded {
     border-radius: 0.35em;
@@ -2047,6 +2047,8 @@ input, select, textarea {
     .rounded img {
       border-radius: 0.35em;
       display: block;
+			width: 100%;
+			height: auto;
     }
 
 /* Image */
