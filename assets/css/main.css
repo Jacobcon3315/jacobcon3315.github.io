@@ -2035,6 +2035,20 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+/* Rounded */
+
+  .rounded {
+    border-radius: 0.35em;
+		border: 0;
+		display: inline-block;
+		position: relative;
+  }
+
+    .rounded img {
+      border-radius: 0.35em;
+      display: block;
+    }
+
 /* Image */
 
 	.image {
